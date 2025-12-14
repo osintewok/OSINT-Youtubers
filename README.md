@@ -1,4 +1,4 @@
-# OSINT YouTube Channels
+# OSINT YouTubers
 YouTube channels with content about Open Source Intelligence (OSINT) techniques, tools, tutorials, and more.
 - [0x4rk0](https://www.youtube.com/@0x4rk0)
 - [Authentic8](https://www.youtube.com/@Authentic8Silo)
